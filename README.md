@@ -24,6 +24,9 @@ This repository showcases an interactive Power BI dashboard built using the Data
 
 ## 📈 Dashboard Screenshot
 
+![Data_Professional_Survey_Visual_Screenshot](https://github.com/user-attachments/assets/6b323452-1420-4dcb-b88e-a690d9608230)
+
+
 ## 💡 Project Insights
 
 - Python is the most preferred programming language across roles.
