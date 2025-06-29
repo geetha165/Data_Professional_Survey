@@ -43,3 +43,5 @@ This repository showcases an interactive Power BI dashboard built using the Data
 - Educators to focus on high-demand skills like Python
 - Professionals to benchmark their own roles and expectations
   
+## 📬 Connect with me on LinkedIn:
+- <a href="https://www.linkedin.com/in/geetha-venkatesan2205/">👉 LinkedIn Profile</a>
